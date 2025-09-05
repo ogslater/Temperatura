@@ -20,3 +20,5 @@ Como usar
     Digite a temperatura que deseja converter.
     Escolha se quer converter de Celsius x Farenheit ou Farenheit x Celsius
     Clique no botão correspondente para ver o resultado.
+
+Igor Guterres - Todos os direitos reservados
